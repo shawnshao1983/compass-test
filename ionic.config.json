@@ -1,0 +1,8 @@
+{
+  "name": "compass-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5f49136e"
+}
